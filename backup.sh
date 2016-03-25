@@ -1,7 +1,7 @@
 #!/bin/bash
 
 USER="root"
-PASSWORD="oko"
+PASSWORD="root"
 OUTPUT="/Backups"
 TODAY=`date +%Y%m%d`
 FIVEDAYS=`date +%Y%m%d -d "5 day ago"`
